@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Enrique Murias # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Personal blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog, Enrique Murias, github, AI, SCADA, industrial automation, WinCC OA
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://enriquemurias.github.io/"
 
 github:
-  username: github_username # change to your GitHub username
+  username: enriquemurias # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -38,8 +38,8 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/E_Murias # change to your Twitter homepage
+    - https://github.com/enriquemurias # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
