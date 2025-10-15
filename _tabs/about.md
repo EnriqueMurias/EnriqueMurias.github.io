@@ -77,10 +77,10 @@ Internship at Naturgy, Ferrol.
 
 ## 🏆 Awards and Achievements
 
-- **CVE-2020-10048** — Authentication Bypass vulnerability in Siemens WinCC / PCS7.  
+- **[CVE-2020-10048](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-09)** — Authentication Bypass Using an Alternate Path or Channel in SIMATIC WinCC and PCS 7.  
   Recognized by Siemens CERT and the Cybersecurity & Infrastructure Security Agency (CISA).
 
-- **CVE-2019-6855** — Improper Authorization vulnerability in Schneider Electric's EcoStruxure Control Expert.  
+- **[CVE-2019-6855](https://nvd.nist.gov/vuln/detail/CVE-2019-6855)** — Improper Authorization - CWE-285 vulnerability in EcoStruxure™ Control Expert V14.0 and all versions of Unity Pro.  
   Listed in the National Vulnerability Database, with thanks from Schneider Electric CERT.
 
 ## 🧪 Projects
@@ -95,7 +95,7 @@ Internship at Naturgy, Ferrol.
 **Programming:** C, C++, Python, Visual Basic, CONTROL++  
 **Web Development:** HTML, CSS, JavaScript  
 **Automation Tools:** WinCC OA, Siemens TIA Portal, Beckhoff TwinCAT 3, Schneider Unity Pro  
-**Industrial Protocols:** Profinet, Profibus, Modbus, CANbus, IEC61850  
+**Industrial Protocols:** Profinet, Profibus, Modbus, CANbus, IEC61850, OPC UA/AE, OPC DA, MQTT, SNMP  
 **Dev Practices:** OOP, TDD, CI/CD, Git, Docker, Kubernetes  
 **Cybersecurity:** OS Hardening, SELinux, cryptography, reverse engineering, ISA/IEC62443  
 **Data & Visualization:** SQLServer, InfluxDB, Grafana, PowerBI
