@@ -12,7 +12,7 @@ Here, you'll find technical breakdowns, tutorials, and reflections on the evolut
 
 ## 👨‍💻 About Me
 
-I'm **Enrique Murias Fernández**, an Automation and Industrial Computing Engineer from Galicia, Spain. My background bridges electrical engineering, software development, and cybersecurity, and my passion lies in designing robust, scalable, and secure industrial systems.
+I'm **Enrique Murias Fernández**, an Automation and Industrial Computing Engineer. My background bridges electrical engineering, software development, and cybersecurity, and my passion lies in designing robust, scalable, and secure industrial systems.
 
 I currently work at **Cleverdist** as a WinCC OA Developer & Industrial Software Engineer, focusing on SCADA architecture design, project migration, and the integration of advanced productivity tools using large language models.
 
@@ -53,10 +53,6 @@ I currently work at **Cleverdist** as a WinCC OA Developer & Industrial Software
   Listed in the National Vulnerability Database, with thanks from Schneider Electric CERT.
 
 ## 🧪 Projects
-
-- **Migration of CERN's LHC Vacuum Control Framework** – modernization and deployment of large-scale SCADA systems.
-- **AI Assistant Integration** – GPT-4-based assistants for automation engineers to streamline repetitive tasks.
-- **Industrial Security Audits** – implementing cybersecurity measures based on ISA/IEC62443 standards.
 
 ## ⚙️ Technical Skills
 
