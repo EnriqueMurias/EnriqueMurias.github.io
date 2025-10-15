@@ -25,7 +25,10 @@ I currently work at **Cleverdist** as a WinCC OA Developer & Industrial Software
 
 ## 💼 Professional Experience
 
-### Cleverdist — WinCC OA Developer & Industrial Software Engineer (Oct 2023 – Present)
+<div style="margin-bottom: 2em;">
+
+**Oct 2023 – Present**  
+**WinCC OA Developer & Industrial Software Engineer** | *Cleverdist*
 
 - Design and implementation of SCADA and network architectures.
 - Integration of customer requirements and CI/CD pipelines.
@@ -34,46 +37,80 @@ I currently work at **Cleverdist** as a WinCC OA Developer & Industrial Software
 - Deployment and commissioning of WinCC OA releases.
 - Prompt engineering: developed GPT-4 assistants to automate repetitive tasks and boost productivity.
 
-### Tecdesoft Automation, A Coruña — Project Manager, SCADA Division (Jan 2023 – Oct 2023)
+</div>
+
+<div style="margin-bottom: 2em;">
+
+**Jan 2023 – Oct 2023**  
+**Project Manager, SCADA Division** | *Tecdesoft Automation, A Coruña*
 
 - Led technical and economic project proposals.
 - Designed and commissioned SCADA systems and network infrastructures.
 - Programmed custom drivers (NFC/RFID readers, meteorological/fire stations).
 
-### Tecdesoft Automation, A Coruña — Automation & Industrial Computing Engineer (Jul 2018 – Dec 2022)
+</div>
+
+<div style="margin-bottom: 2em;">
+
+**Jul 2018 – Dec 2022**  
+**Automation & Industrial Computing Engineer** | *Tecdesoft Automation, A Coruña*
 
 - Developed and commissioned SCADA systems and HMIs (WinCC OA since 2019).
 - Programmed PLC systems and supported network configuration.
 - Delivered WinCC OA training courses to external clients.
 
-### Detegasa, A Coruña — Electrical Engineer Trainee (Mar 2016 – Sep 2017)
+</div>
+
+<div style="margin-bottom: 2em;">
+
+**Mar 2016 – Sep 2017**  
+**Electrical Engineer Trainee** | *Detegasa, A Coruña*
 
 - Designed electrical and P&ID schematics for industrial equipment.
 - Worked on systems for helicopter refueling, wastewater treatment, and heating systems.
 
-### Naturgy, Ferrol — Higher Technician Trainee (Apr 2011 – Jun 2011)
+</div>
+
+<div style="margin-bottom: 2em;">
+
+**Apr 2011 – Jun 2011**  
+**Higher Technician Trainee** | *Naturgy, Ferrol*
 
 - Inspected overhead and underground lines for failures.
 - Conducted grounding and commissioning tests on transformation centers.
 
+</div>
+
 ## 🎓 Education
 
-### Master's in Automation Engineering and Industrial Informatics (MAIIND)
-**University of Oviedo** (2017 – 2019)
+<div style="margin-bottom: 2em;">
+
+**2017 – 2019**  
+**Master's in Automation Engineering and Industrial Informatics (MAIIND)** | *University of Oviedo*
 
 Specialized in C/C++ programming, industrial automation, data visualization, and machine learning.
 
 **Final project:** Development and SCADA Security of a Ceramic Plant — graded 10 (MH).
 
-### Degree in Electrical Engineering
-**University of A Coruña** (2011 – 2015)
+</div>
+
+<div style="margin-bottom: 2em;">
+
+**2011 – 2015**  
+**Degree in Electrical Engineering** | *University of A Coruña*
 
 **Final project:** Design of a Test Bench for Electromagnetic Compatibility Measurements — graded 10 (MH).
 
-### Higher Professional Training in Electrotechnical Installations
-**C.I.F.P. Ferrolterra** (2010 – 2011)
+</div>
+
+<div style="margin-bottom: 2em;">
+
+**2010 – 2011**  
+**Higher Professional Training in Electrotechnical Installations** | *C.I.F.P. Ferrolterra*
 
 Internship at Naturgy, Ferrol.
+
+</div>
 
 ## 🏆 Awards and Achievements
 
