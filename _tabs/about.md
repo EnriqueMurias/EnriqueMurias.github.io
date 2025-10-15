@@ -19,7 +19,6 @@ I currently work at **Cleverdist** as a WinCC OA Developer & Industrial Software
 ## 🧾 Resume
 
 **Name:** Enrique Murias Fernández  
-**Location:** Galicia, Spain  
 **LinkedIn:** [linkedin.com/in/emurias](https://www.linkedin.com/in/emurias/)  
 **Certifications:** C++, TwinCAT, WinCC OA Expert
 
